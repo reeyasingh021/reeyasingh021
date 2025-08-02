@@ -1,4 +1,4 @@
-# Reeya Singh | Data Science, Economics & CS Student
+# Reeya Singh | Data Science, Computer Science & Economics Student
 
 Aspiring finance-focused technologist passionate about leveraging data, machine learning, and analytics to drive meaningful insights in investment, infrastructure, and risk. I focus on clarity, impact, and building solutions that blend technology with real-world relevance.
 
